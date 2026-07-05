@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", async () => {
                         <p class="recommendation-date">${date}</p>
                     </div>
                 </div>
-                <p class="recommendation-quote">"${quote}"</p>
+                <p class="recommendation-quote">${quote}</p>
             `;
 
             recommendationFragment.appendChild(recommendation);

@@ -1,0 +1,19 @@
+https://cdna.artstation.com/p/assets/images/images/080/221/540/medium/alejandro-quintana-del-pino-weapon.jpg?1727021947
+Descriptions go under each image like this! png/jpeg/jpg/gif supported.
+
+https://youtu.be/urNQ8tkmbo4
+Description for example2.jpg.
+
+https://youtu.be/J-M9xHbrBB8
+These aren't real images but need replacing with your own.
+
+https://cdna.artstation.com/p/assets/images/images/080/221/540/medium/alejandro-quintana-del-pino-weapon.jpg?1727021947 // https://cdnb.artstation.com/p/assets/images/images/080/221/575/medium/alejandro-quintana-del-pino-wire.jpg?1727022042
+MP4's are also supported but like with images should be hosted somewhere like dropbox.
+
+https://cdnb.artstation.com/p/assets/images/images/080/221/605/medium/alejandro-quintana-del-pino-lightstick.jpg?1727022088
+You can create before and after slider by seperating two urls with ' // ' 
+
+https://youtu.be/V8EU64GUPJU
+you can also embed sketchfab files by pasting the url, no need for direct embedd urls. 
+
+https://cdnb.artstation.com/p/assets/images/images/080/221/605/medium/alejandro-quintana-del-pino-lightstick.jpg?1727022088 // https://cdna.artstation.com/p/assets/images/images/080/221/636/medium/alejandro-quintana-del-pino-wire.jpg?1727022136
